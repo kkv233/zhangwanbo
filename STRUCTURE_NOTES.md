@@ -78,7 +78,6 @@
 - `https://orcid.org/0009-0008-2926-9624`
 - `https://scholar.google.com/citations?user=Nlt4wAYAAAAJ&hl=zh-CN&authuser=1`
 - `https://space.bilibili.com/3494360431725516?spm_id_from=333.1007.0.0`
-- `https://www.xiaohongshu.com/user/profile/69ca7192000000003402d7fc`
 - `https://cs.fudan.edu.cn/dky/`
 - `Wanbo_Zhang_CV.pdf`
 
